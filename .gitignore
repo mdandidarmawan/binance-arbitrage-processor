@@ -2,3 +2,5 @@ dev.js
 node_modules
 settings.json
 package-lock.json
+credentials.json
+test.js

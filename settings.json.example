@@ -1,9 +1,10 @@
 {
   "socketUrl": "http://localhost:3000",
   "orderQuantity": 13,
-  "applicationKey": "kuD1p6rwOLtBf3HzFl2sbdUW26IpcvTslUwVclzXWuFdNnfAe8l5MmqWq6N2K5fy",
-  "applicationSecret": "E2kIqjv0qiXvwki6fEbGm6zm6tWoYtRLv1fYsEYEc643xRm2snx5kRjfDvW6ngYh",
   "profitPercentageMinimum": 0.003,
   "loadingPricesInterval": 120,
-  "arbitrageTotal": 10
+  "arbitrageTotal": 10,
+  "excludedPairs": [
+    "BELBNB", "BELBTC", "BELUSDT", "BELBUSD"
+  ]
 }
